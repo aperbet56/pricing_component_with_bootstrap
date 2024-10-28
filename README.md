@@ -6,7 +6,7 @@ Création d'un composant prix en HTML5, CSS3 et avec Bootstrap.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/pricing_component_with_bootstrap/
 
 ## Projet développé avec
 
